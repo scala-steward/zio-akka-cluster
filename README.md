@@ -23,7 +23,7 @@ This library provides us following features:
 In order to use this library, we need to add the following line in our `build.sbt` file:
 
 ```scala
-libraryDependencies += "dev.zio" %% "zio-akka-cluster" % "0.3.0"
+libraryDependencies += "dev.zio" %% "zio-akka-cluster" % "0.1.0"
 ```
 
 ## Example
